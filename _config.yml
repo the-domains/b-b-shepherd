@@ -12,7 +12,4 @@ color:
     - '#081028'
     - '#F0CEB7'
 name: B B Shepherd
-navigation:
-  - url: 'http://theglisterjournals.com/'
-    name: The Glister Journals
-    type: external
+navigation: []
